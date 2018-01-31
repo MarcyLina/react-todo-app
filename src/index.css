@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  
+
 }
 
 header, .todos {
@@ -23,7 +23,7 @@ h2 {
 }
 
 h1, h2{
-
+text-align: center;
 }
 
 p {

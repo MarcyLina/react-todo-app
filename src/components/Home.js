@@ -3,9 +3,11 @@ import React, { Component } from 'react';
 class Home extends Component {
   render() {
     return (
-      <h2>
-        this is home
-      </h2>
+
+        <h2>
+        Super Duper, Snazzy To-Do List
+        </h2>
+
     );
   }
 }
